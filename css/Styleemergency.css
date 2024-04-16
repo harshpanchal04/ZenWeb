@@ -1,0 +1,79 @@
+/* Set the background color and font family for the entire page */
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Set the text color and font weight for headings */
+  h1, h2 {
+    color: #343a40;
+    font-weight: 700;
+  }
+  
+  /* Set the text color for lead paragraphs */
+  .lead {
+    color: #6c757d;
+  }
+  
+  /* Style the emergency section */
+  .emergency-section {
+    background-color: #fff;
+    padding: 50px 20px;
+  }
+  
+  /* Style the form */
+  form {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    padding: 20px;
+  }
+  
+  /* Style the form group */
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  /* Style the form label */
+  label {
+    font-weight: 600;
+  }
+  
+  /* Style the form input */
+  input[type="text"], textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    background-color: #fff;
+    resize: none;
+  }
+  
+  /* Style the submit button */
+  button[type="submit"] {
+    background-color: #dc3545;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  
+  /* Style the button on the emergency section */
+  .emergency-section button {
+    background-color: #dc3545;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  
+  /* Set the max width and margin for the container */
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  
